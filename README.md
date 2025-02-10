@@ -20,6 +20,6 @@
 ## Tutorial
 
 Acesse o tutorial do Youtube ou utilize o Site
-- Youtube: `Em breve`
+- Youtube: https://www.youtube.com/watch?v=7nWN0BWWucQ
 - Website: https://mdsmax.dev/docs/docs.html
 
